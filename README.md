@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ## 🚀 About Me
 
-- 💻 I'm building innovative web applications focusing on Laravel and React
-- 🌱 I'm dedicated to mastering emerging frameworks and best practices in web development
-- 🚀 Always seeking new opportunities to challenge myself and enhance my technical skillset
-- 📬 How to reach me: [kalandadzeg777@gmail.com](mailto:kalandadzeg777@gmail.com)
+- 💻 I'm building innovative web applications.
+- 🌱 I'm dedicated to mastering emerging frameworks and best practices.
+- 🚀 Always seeking new opportunities to challenge myself and enhance my technical skillset.
+- 📬 How to reach me: [kalandadzeg777@gmail.com](mailto:kalandadzeg777@gmail.com).
 
 ## 🔧 Technologies & Tools
 
